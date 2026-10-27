@@ -85,20 +85,20 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomansaeed2990-cmd&show_icons=true&theme=transparent&border_color=0099ff&title_color=0099ff&text_color=ffffff&icon_color=ff0000&bg_color=0d1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomansaeed2990-cmd&layout=compact&theme=transparent&border_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nomansaeed335&show_icons=true&theme=transparent&border_color=0099ff&title_color=0099ff&text_color=ffffff&icon_color=ff0000&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomansaeed335&layout=compact&theme=transparent&border_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=0d1117" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nomansaeed2990-cmd&theme=dark&background=0d1117&ring=ff0000&fire=0099ff&currStreakLabel=0099ff&border=0099ff" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=nomansaeed335&theme=dark&background=0d1117&ring=ff0000&fire=0099ff&currStreakLabel=0099ff&border=0099ff" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nomansaeed2990-cmd&bg_color=0d1117&color=0099ff&line=ff0000&point=ffffff&area=true&area_color=0033cc&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nomansaeed335&bg_color=0d1117&color=0099ff&line=ff0000&point=ffffff&area=true&area_color=0033cc&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomansaeed2990-cmd&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nomansaeed335&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </p>
 
 <br/>
